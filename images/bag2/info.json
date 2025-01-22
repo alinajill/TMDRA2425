@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 108,
+    "height" : 162
+  }, {
+    "width" : 216,
+    "height" : 324
+  }, {
+    "width" : 432,
+    "height" : 648
+  }, {
+    "width" : 864,
+    "height" : 1296
+  }, {
+    "width" : 1728,
+    "height" : 2592
+  }, {
+    "width" : 3456,
+    "height" : 5184
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3456,
+  "@id" : "https://alinajill.github.io/TMDRA2425/images/bag2",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 5184
+}
