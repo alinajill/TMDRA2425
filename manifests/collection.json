@@ -1,0 +1,13 @@
+{
+  "id" : "https://alinajill.github.io/TMDRA2425/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in alinajill/TMDRA2425 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://alinajill.github.io/TMDRA2425/manifests/TMDRAmanifest.json",
+    "label" : "TMDRA2425"
+  } ]
+}
