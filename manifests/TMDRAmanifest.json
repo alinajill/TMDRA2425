@@ -1,0 +1,283 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://alinajill.github.io/TMDRA2425/manifests/TMDRAmanifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "TMDRA2425",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Annotation Project",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Alina Jill Simeone",
+  "sequences" : [ {
+    "@id" : "http://13754fa1-4aa1-4e60-937c-f4159cd1013c",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://7d7011a0-68b8-4cff-86a4-611ed26faa38",
+      "@type" : "sc:Canvas",
+      "label" : "Sandal1",
+      "height" : 6016,
+      "width" : 4000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://879acf56-2f01-4496-943e-29cbd86ff91e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://alinajill.github.io/TMDRA2425/images/sandal1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://alinajill.github.io/TMDRA2425/images/sandal1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 6016,
+          "width" : 4000
+        },
+        "on" : "http://7d7011a0-68b8-4cff-86a4-611ed26faa38"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://23a3a6d8-2c1a-4454-9cb7-971d3be79654",
+      "@type" : "sc:Canvas",
+      "label" : "Sandal2",
+      "height" : 3863,
+      "width" : 5257,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3fbd57ed-f320-44f3-afba-5370d70303fc",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://alinajill.github.io/TMDRA2425/images/sandal2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://alinajill.github.io/TMDRA2425/images/sandal2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3863,
+          "width" : 5257
+        },
+        "on" : "http://23a3a6d8-2c1a-4454-9cb7-971d3be79654"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://605e8a04-ac56-47a5-8768-173c6d1aa8f5",
+      "@type" : "sc:Canvas",
+      "label" : "Shirt1",
+      "height" : 6720,
+      "width" : 4480,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3584ab55-5658-43f1-98c1-7248396a2309",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://alinajill.github.io/TMDRA2425/images/shirt1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://alinajill.github.io/TMDRA2425/images/shirt1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 6720,
+          "width" : 4480
+        },
+        "on" : "http://605e8a04-ac56-47a5-8768-173c6d1aa8f5"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://12d543a6-27be-4f7d-a58d-b5e72cb53c36",
+      "@type" : "sc:Canvas",
+      "label" : "Shirt2",
+      "height" : 4480,
+      "width" : 6720,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c6025500-7d64-42c3-b1e9-1ee0aa392561",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://alinajill.github.io/TMDRA2425/images/shirt2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://alinajill.github.io/TMDRA2425/images/shirt2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4480,
+          "width" : 6720
+        },
+        "on" : "http://12d543a6-27be-4f7d-a58d-b5e72cb53c36"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b657e2b2-4725-47a2-969b-eb90a0c220aa",
+      "@type" : "sc:Canvas",
+      "label" : "Sneaker1",
+      "height" : 4000,
+      "width" : 5729,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2a9182f0-d13a-4339-9385-4d7fc0202728",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://alinajill.github.io/TMDRA2425/images/sneaker1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://alinajill.github.io/TMDRA2425/images/sneaker1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4000,
+          "width" : 5729
+        },
+        "on" : "http://b657e2b2-4725-47a2-969b-eb90a0c220aa"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://57860cde-a4c3-43ba-85d0-0ba8813afea8",
+      "@type" : "sc:Canvas",
+      "label" : "Sneaker2",
+      "height" : 3053,
+      "width" : 4580,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://319132c0-20e4-4743-a976-d1f07f4e28ea",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://alinajill.github.io/TMDRA2425/images/sneaker2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://alinajill.github.io/TMDRA2425/images/sneaker2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3053,
+          "width" : 4580
+        },
+        "on" : "http://57860cde-a4c3-43ba-85d0-0ba8813afea8"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://6f78537e-d245-4016-97bc-c1c8356a1cd2",
+      "@type" : "sc:Canvas",
+      "label" : "Bag1",
+      "height" : 3093,
+      "width" : 5191,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e702a2bd-68c9-4718-b156-39eb4b96e9e2",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://alinajill.github.io/TMDRA2425/images/bag1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://alinajill.github.io/TMDRA2425/images/bag1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3093,
+          "width" : 5191
+        },
+        "on" : "http://6f78537e-d245-4016-97bc-c1c8356a1cd2"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://9937781d-a6fd-4506-8ac7-3061e3a8dddb",
+      "@type" : "sc:Canvas",
+      "label" : "Bag2",
+      "height" : 5184,
+      "width" : 3456,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://538a5d0d-e6a6-4785-9407-db8e41200426",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://alinajill.github.io/TMDRA2425/images/bag2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://alinajill.github.io/TMDRA2425/images/bag2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5184,
+          "width" : 3456
+        },
+        "on" : "http://9937781d-a6fd-4506-8ac7-3061e3a8dddb"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a95f26ed-e8e1-4b77-8478-2c4fa165a295",
+      "@type" : "sc:Canvas",
+      "label" : "Ankleboot1",
+      "height" : 4032,
+      "width" : 3024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d9b6f0ef-9fab-4a74-8f61-61495159789b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://alinajill.github.io/TMDRA2425/images/ankleboot1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://alinajill.github.io/TMDRA2425/images/ankleboot1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4032,
+          "width" : 3024
+        },
+        "on" : "http://a95f26ed-e8e1-4b77-8478-2c4fa165a295"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c6f17844-50e2-4271-a024-36ee059f573a",
+      "@type" : "sc:Canvas",
+      "label" : "Ankleboot2",
+      "height" : 3368,
+      "width" : 6000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0f908c96-49b6-4fe4-b7df-df9077157e4d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://alinajill.github.io/TMDRA2425/images/ankleboot2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://alinajill.github.io/TMDRA2425/images/ankleboot2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3368,
+          "width" : 6000
+        },
+        "on" : "http://c6f17844-50e2-4271-a024-36ee059f573a"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
