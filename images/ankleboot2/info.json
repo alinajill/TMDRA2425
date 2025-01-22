@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 188,
+    "height" : 106
+  }, {
+    "width" : 375,
+    "height" : 211
+  }, {
+    "width" : 750,
+    "height" : 421
+  }, {
+    "width" : 1500,
+    "height" : 842
+  }, {
+    "width" : 3000,
+    "height" : 1684
+  }, {
+    "width" : 6000,
+    "height" : 3368
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 6000,
+  "@id" : "https://alinajill.github.io/TMDRA2425/images/ankleboot2",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3368
+}

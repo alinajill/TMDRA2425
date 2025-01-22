@@ -9,249 +9,6 @@
     },
     "items": [
         {
-            "id": "https://alinajill.github.io/TMDRA2425/images/shirt2/canvas/",
-            "type": "Canvas",
-            "label": {
-                "none": [
-                    "shirt2"
-                ]
-            },
-            "height": 4480,
-            "width": 6720,
-            "items": [
-                {
-                    "id": "https://alinajill.github.io/TMDRA2425/images/shirt2/annotation/AnnoPage",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://alinajill.github.io/TMDRA2425/images/shirt2/annotation/",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://alinajill.github.io/TMDRA2425/images/shirt2/full/full/0/default.jpg",
-                                "type": "Image",
-                                "service": [
-                                    {
-                                        "tiles": [
-                                            {
-                                                "scaleFactors": [
-                                                    32,
-                                                    16,
-                                                    8,
-                                                    4,
-                                                    2,
-                                                    1
-                                                ],
-                                                "width": 1024,
-                                                "height": 1024
-                                            }
-                                        ],
-                                        "protocol": "http://iiif.io/api/image",
-                                        "sizes": [
-                                            {
-                                                "width": 210,
-                                                "height": 140
-                                            },
-                                            {
-                                                "width": 420,
-                                                "height": 280
-                                            },
-                                            {
-                                                "width": 840,
-                                                "height": 560
-                                            },
-                                            {
-                                                "width": 1680,
-                                                "height": 1120
-                                            },
-                                            {
-                                                "width": 3360,
-                                                "height": 2240
-                                            },
-                                            {
-                                                "width": 6720,
-                                                "height": 4480
-                                            }
-                                        ],
-                                        "profile": "http://iiif.io/api/image/2/level0.json",
-                                        "width": 6720,
-                                        "@id": "https://alinajill.github.io/TMDRA2425/images/shirt2",
-                                        "@context": "http://iiif.io/api/image/2/context.json",
-                                        "height": 4480,
-                                        "@type": "ImageService2"
-                                    }
-                                ],
-                                "format": "image/jpeg"
-                            },
-                            "target": "https://alinajill.github.io/TMDRA2425/images/shirt2/canvas/"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://alinajill.github.io/TMDRA2425/images/sandal2/canvas/",
-            "type": "Canvas",
-            "label": {
-                "none": [
-                    "sandal2"
-                ]
-            },
-            "height": 3863,
-            "width": 5257,
-            "items": [
-                {
-                    "id": "https://alinajill.github.io/TMDRA2425/images/sandal2/annotation/AnnoPage",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://alinajill.github.io/TMDRA2425/images/sandal2/annotation/",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://alinajill.github.io/TMDRA2425/images/sandal2/full/full/0/default.jpg",
-                                "type": "Image",
-                                "service": [
-                                    {
-                                        "tiles": [
-                                            {
-                                                "scaleFactors": [
-                                                    32,
-                                                    16,
-                                                    8,
-                                                    4,
-                                                    2,
-                                                    1
-                                                ],
-                                                "width": 1024,
-                                                "height": 1024
-                                            }
-                                        ],
-                                        "protocol": "http://iiif.io/api/image",
-                                        "sizes": [
-                                            {
-                                                "width": 165,
-                                                "height": 121
-                                            },
-                                            {
-                                                "width": 329,
-                                                "height": 242
-                                            },
-                                            {
-                                                "width": 658,
-                                                "height": 483
-                                            },
-                                            {
-                                                "width": 1315,
-                                                "height": 966
-                                            },
-                                            {
-                                                "width": 2629,
-                                                "height": 1932
-                                            },
-                                            {
-                                                "width": 5257,
-                                                "height": 3863
-                                            }
-                                        ],
-                                        "profile": "http://iiif.io/api/image/2/level0.json",
-                                        "width": 5257,
-                                        "@id": "https://alinajill.github.io/TMDRA2425/images/sandal2",
-                                        "@context": "http://iiif.io/api/image/2/context.json",
-                                        "height": 3863,
-                                        "@type": "ImageService2"
-                                    }
-                                ],
-                                "format": "image/jpeg"
-                            },
-                            "target": "https://alinajill.github.io/TMDRA2425/images/sandal2/canvas/"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://alinajill.github.io/TMDRA2425/images/shirt1/canvas/",
-            "type": "Canvas",
-            "label": {
-                "none": [
-                    "shirt1"
-                ]
-            },
-            "height": 6720,
-            "width": 4480,
-            "items": [
-                {
-                    "id": "https://alinajill.github.io/TMDRA2425/images/shirt1/annotation/AnnoPage",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://alinajill.github.io/TMDRA2425/images/shirt1/annotation/",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://alinajill.github.io/TMDRA2425/images/shirt1/full/full/0/default.jpg",
-                                "type": "Image",
-                                "service": [
-                                    {
-                                        "tiles": [
-                                            {
-                                                "scaleFactors": [
-                                                    32,
-                                                    16,
-                                                    8,
-                                                    4,
-                                                    2,
-                                                    1
-                                                ],
-                                                "width": 1024,
-                                                "height": 1024
-                                            }
-                                        ],
-                                        "protocol": "http://iiif.io/api/image",
-                                        "sizes": [
-                                            {
-                                                "width": 140,
-                                                "height": 210
-                                            },
-                                            {
-                                                "width": 280,
-                                                "height": 420
-                                            },
-                                            {
-                                                "width": 560,
-                                                "height": 840
-                                            },
-                                            {
-                                                "width": 1120,
-                                                "height": 1680
-                                            },
-                                            {
-                                                "width": 2240,
-                                                "height": 3360
-                                            },
-                                            {
-                                                "width": 4480,
-                                                "height": 6720
-                                            }
-                                        ],
-                                        "profile": "http://iiif.io/api/image/2/level0.json",
-                                        "width": 4480,
-                                        "@id": "https://alinajill.github.io/TMDRA2425/images/shirt1",
-                                        "@context": "http://iiif.io/api/image/2/context.json",
-                                        "height": 6720,
-                                        "@type": "ImageService2"
-                                    }
-                                ],
-                                "format": "image/jpeg"
-                            },
-                            "target": "https://alinajill.github.io/TMDRA2425/images/shirt1/canvas/"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "id": "https://alinajill.github.io/TMDRA2425/images/sneaker2/canvas/",
             "type": "Canvas",
             "label": {
@@ -327,87 +84,6 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://alinajill.github.io/TMDRA2425/images/sneaker2/canvas/"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "https://alinajill.github.io/TMDRA2425/images/sneaker1/canvas/",
-            "type": "Canvas",
-            "label": {
-                "none": [
-                    "sneaker1"
-                ]
-            },
-            "height": 4000,
-            "width": 5729,
-            "items": [
-                {
-                    "id": "https://alinajill.github.io/TMDRA2425/images/sneaker1/annotation/AnnoPage",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://alinajill.github.io/TMDRA2425/images/sneaker1/annotation/",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://alinajill.github.io/TMDRA2425/images/sneaker1/full/full/0/default.jpg",
-                                "type": "Image",
-                                "service": [
-                                    {
-                                        "tiles": [
-                                            {
-                                                "scaleFactors": [
-                                                    32,
-                                                    16,
-                                                    8,
-                                                    4,
-                                                    2,
-                                                    1
-                                                ],
-                                                "width": 1024,
-                                                "height": 1024
-                                            }
-                                        ],
-                                        "protocol": "http://iiif.io/api/image",
-                                        "sizes": [
-                                            {
-                                                "width": 180,
-                                                "height": 125
-                                            },
-                                            {
-                                                "width": 359,
-                                                "height": 250
-                                            },
-                                            {
-                                                "width": 717,
-                                                "height": 500
-                                            },
-                                            {
-                                                "width": 1433,
-                                                "height": 1000
-                                            },
-                                            {
-                                                "width": 2865,
-                                                "height": 2000
-                                            },
-                                            {
-                                                "width": 5729,
-                                                "height": 4000
-                                            }
-                                        ],
-                                        "profile": "http://iiif.io/api/image/2/level0.json",
-                                        "width": 5729,
-                                        "@id": "https://alinajill.github.io/TMDRA2425/images/sneaker1",
-                                        "@context": "http://iiif.io/api/image/2/context.json",
-                                        "height": 4000,
-                                        "@type": "ImageService2"
-                                    }
-                                ],
-                                "format": "image/jpeg"
-                            },
-                            "target": "https://alinajill.github.io/TMDRA2425/images/sneaker1/canvas/"
                         }
                     ]
                 }
@@ -732,6 +408,411 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://alinajill.github.io/TMDRA2425/images/sandal1/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://alinajill.github.io/TMDRA2425/images/shirt1/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "shirt1"
+                ]
+            },
+            "height": 6720,
+            "width": 4480,
+            "items": [
+                {
+                    "id": "https://alinajill.github.io/TMDRA2425/images/shirt1/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://alinajill.github.io/TMDRA2425/images/shirt1/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://alinajill.github.io/TMDRA2425/images/shirt1/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 140,
+                                                "height": 210
+                                            },
+                                            {
+                                                "width": 280,
+                                                "height": 420
+                                            },
+                                            {
+                                                "width": 560,
+                                                "height": 840
+                                            },
+                                            {
+                                                "width": 1120,
+                                                "height": 1680
+                                            },
+                                            {
+                                                "width": 2240,
+                                                "height": 3360
+                                            },
+                                            {
+                                                "width": 4480,
+                                                "height": 6720
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 4480,
+                                        "@id": "https://alinajill.github.io/TMDRA2425/images/shirt1",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 6720,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://alinajill.github.io/TMDRA2425/images/shirt1/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://alinajill.github.io/TMDRA2425/images/shirt2/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "shirt2"
+                ]
+            },
+            "height": 4480,
+            "width": 6720,
+            "items": [
+                {
+                    "id": "https://alinajill.github.io/TMDRA2425/images/shirt2/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://alinajill.github.io/TMDRA2425/images/shirt2/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://alinajill.github.io/TMDRA2425/images/shirt2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 210,
+                                                "height": 140
+                                            },
+                                            {
+                                                "width": 420,
+                                                "height": 280
+                                            },
+                                            {
+                                                "width": 840,
+                                                "height": 560
+                                            },
+                                            {
+                                                "width": 1680,
+                                                "height": 1120
+                                            },
+                                            {
+                                                "width": 3360,
+                                                "height": 2240
+                                            },
+                                            {
+                                                "width": 6720,
+                                                "height": 4480
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 6720,
+                                        "@id": "https://alinajill.github.io/TMDRA2425/images/shirt2",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4480,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://alinajill.github.io/TMDRA2425/images/shirt2/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://alinajill.github.io/TMDRA2425/images/ankleboot2/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "ankleboot2"
+                ]
+            },
+            "height": 3368,
+            "width": 6000,
+            "items": [
+                {
+                    "id": "https://alinajill.github.io/TMDRA2425/images/ankleboot2/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://alinajill.github.io/TMDRA2425/images/ankleboot2/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://alinajill.github.io/TMDRA2425/images/ankleboot2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 188,
+                                                "height": 106
+                                            },
+                                            {
+                                                "width": 375,
+                                                "height": 211
+                                            },
+                                            {
+                                                "width": 750,
+                                                "height": 421
+                                            },
+                                            {
+                                                "width": 1500,
+                                                "height": 842
+                                            },
+                                            {
+                                                "width": 3000,
+                                                "height": 1684
+                                            },
+                                            {
+                                                "width": 6000,
+                                                "height": 3368
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 6000,
+                                        "@id": "https://alinajill.github.io/TMDRA2425/images/ankleboot2",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3368,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://alinajill.github.io/TMDRA2425/images/ankleboot2/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://alinajill.github.io/TMDRA2425/images/sneaker1/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "sneaker1"
+                ]
+            },
+            "height": 4000,
+            "width": 5729,
+            "items": [
+                {
+                    "id": "https://alinajill.github.io/TMDRA2425/images/sneaker1/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://alinajill.github.io/TMDRA2425/images/sneaker1/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://alinajill.github.io/TMDRA2425/images/sneaker1/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 180,
+                                                "height": 125
+                                            },
+                                            {
+                                                "width": 359,
+                                                "height": 250
+                                            },
+                                            {
+                                                "width": 717,
+                                                "height": 500
+                                            },
+                                            {
+                                                "width": 1433,
+                                                "height": 1000
+                                            },
+                                            {
+                                                "width": 2865,
+                                                "height": 2000
+                                            },
+                                            {
+                                                "width": 5729,
+                                                "height": 4000
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 5729,
+                                        "@id": "https://alinajill.github.io/TMDRA2425/images/sneaker1",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4000,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://alinajill.github.io/TMDRA2425/images/sneaker1/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://alinajill.github.io/TMDRA2425/images/sandal2/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "sandal2"
+                ]
+            },
+            "height": 3863,
+            "width": 5257,
+            "items": [
+                {
+                    "id": "https://alinajill.github.io/TMDRA2425/images/sandal2/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://alinajill.github.io/TMDRA2425/images/sandal2/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://alinajill.github.io/TMDRA2425/images/sandal2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 165,
+                                                "height": 121
+                                            },
+                                            {
+                                                "width": 329,
+                                                "height": 242
+                                            },
+                                            {
+                                                "width": 658,
+                                                "height": 483
+                                            },
+                                            {
+                                                "width": 1315,
+                                                "height": 966
+                                            },
+                                            {
+                                                "width": 2629,
+                                                "height": 1932
+                                            },
+                                            {
+                                                "width": 5257,
+                                                "height": 3863
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 5257,
+                                        "@id": "https://alinajill.github.io/TMDRA2425/images/sandal2",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3863,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://alinajill.github.io/TMDRA2425/images/sandal2/canvas/"
                         }
                     ]
                 }
