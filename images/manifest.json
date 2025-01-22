@@ -9,6 +9,87 @@
     },
     "items": [
         {
+            "id": "https://alinajill.github.io/TMDRA2425/images/sandal2/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "sandal2"
+                ]
+            },
+            "height": 3863,
+            "width": 5257,
+            "items": [
+                {
+                    "id": "https://alinajill.github.io/TMDRA2425/images/sandal2/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://alinajill.github.io/TMDRA2425/images/sandal2/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://alinajill.github.io/TMDRA2425/images/sandal2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 165,
+                                                "height": 121
+                                            },
+                                            {
+                                                "width": 329,
+                                                "height": 242
+                                            },
+                                            {
+                                                "width": 658,
+                                                "height": 483
+                                            },
+                                            {
+                                                "width": 1315,
+                                                "height": 966
+                                            },
+                                            {
+                                                "width": 2629,
+                                                "height": 1932
+                                            },
+                                            {
+                                                "width": 5257,
+                                                "height": 3863
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 5257,
+                                        "@id": "https://alinajill.github.io/TMDRA2425/images/sandal2",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3863,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://alinajill.github.io/TMDRA2425/images/sandal2/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://alinajill.github.io/TMDRA2425/images/sandal1/canvas/",
             "type": "Canvas",
             "label": {
