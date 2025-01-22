@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 125,
+    "height" : 188
+  }, {
+    "width" : 250,
+    "height" : 376
+  }, {
+    "width" : 500,
+    "height" : 752
+  }, {
+    "width" : 1000,
+    "height" : 1504
+  }, {
+    "width" : 2000,
+    "height" : 3008
+  }, {
+    "width" : 4000,
+    "height" : 6016
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 4000,
+  "@id" : "https://alinajill.github.io/TMDRA2425/images/sandal1",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 6016
+}
